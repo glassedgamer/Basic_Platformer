@@ -1,4 +1,4 @@
-//https://www.youtube.com/watch?v=8uIt9a2XBrw time stamp: 9:34
+// https://www.youtube.com/watch?v=8uIt9a2XBrw time stamp: 9:34
 var context, controller, rectangle, loop;
 
 context = document.querySelector("canvas").getContext("2d");
